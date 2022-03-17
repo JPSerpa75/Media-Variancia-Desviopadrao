@@ -1,0 +1,48 @@
+body{
+    background: rgb(21, 29, 59);
+    font: normal 15pt Arial;
+    color: white;
+}
+
+header{
+    text-align: center;
+
+}
+
+section{
+    background: rgb(218, 219, 189);
+    border-radius: 15px;
+    padding: 20px;
+    width: 500px;
+    color: black;
+    margin: auto;
+    box-shadow: 0.8vh 0.8vh 2vh rgba(0, 0, 0, 0.308);
+}
+
+select{
+    width: 200px;
+}
+
+ul{
+    font: normal 12pt Arial;
+    list-style: none;
+    width: 175px;
+    text-align: center;
+}
+ 
+li{
+    background: white;
+    padding: 2px;
+}
+
+.button{
+    background: rgb(218, 219, 189);
+    padding: 3.5px;
+    border-style: none;
+    box-shadow: 1px 1px 2px rgb(21, 29, 59);
+}
+
+footer{
+    text-align: center;
+    font-style: italic;
+}
